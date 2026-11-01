@@ -1,0 +1,59 @@
+column,category,item,statistic,unit,kaggle_column
+country,,Country name,,,country
+city,,City name,,,city
+data_quality,,"1 if Numbeo considered the data reliable, 0 if it said more contributors were needed",,,data_quality
+restaurants__meal_inexpensive_restaurant,Restaurants,"Meal, Inexpensive Restaurant",average,USD,x1
+restaurants__meal_for_2_people_mid_range_restaurant_three_course,Restaurants,"Meal for 2 People, Mid-range Restaurant, Three-course",average,USD,x2
+restaurants__mcmeal_at_mcdonalds_or_equivalent_combo_meal,Restaurants,McMeal at McDonalds (or Equivalent Combo Meal),average,USD,x3
+restaurants__domestic_beer_0_5_liter_draught_in_restaurants,Restaurants,"Domestic Beer (0.5 liter draught, in restaurants)",average,USD,x4
+restaurants__imported_beer_0_33_liter_bottle_in_restaurants,Restaurants,"Imported Beer (0.33 liter bottle, in restaurants)",average,USD,x5
+restaurants__cappuccino_regular_in_restaurants,Restaurants,"Cappuccino (regular, in restaurants)",average,USD,x6
+restaurants__coke_pepsi_0_33_liter_bottle_in_restaurants,Restaurants,"Coke/Pepsi (0.33 liter bottle, in restaurants)",average,USD,x7
+restaurants__water_0_33_liter_bottle_in_restaurants,Restaurants,"Water (0.33 liter bottle, in restaurants)",average,USD,x8
+markets__milk_regular_1_liter,Markets,"Milk (regular), (1 liter)",average,USD,x9
+markets__loaf_of_fresh_white_bread_500g,Markets,Loaf of Fresh White Bread (500g),average,USD,x10
+markets__rice_white_1kg,Markets,"Rice (white), (1kg)",average,USD,x11
+markets__eggs_regular_12,Markets,Eggs (regular) (12),average,USD,x12
+markets__local_cheese_1kg,Markets,Local Cheese (1kg),average,USD,x13
+markets__chicken_fillets_1kg,Markets,Chicken Fillets (1kg),average,USD,x14
+markets__beef_round_1kg_or_equivalent_back_leg_red_meat,Markets,Beef Round (1kg) (or Equivalent Back Leg Red Meat),average,USD,x15
+markets__apples_1kg,Markets,Apples (1kg),average,USD,x16
+markets__banana_1kg,Markets,Banana (1kg),average,USD,x17
+markets__oranges_1kg,Markets,Oranges (1kg),average,USD,x18
+markets__tomato_1kg,Markets,Tomato (1kg),average,USD,x19
+markets__potato_1kg,Markets,Potato (1kg),average,USD,x20
+markets__onion_1kg,Markets,Onion (1kg),average,USD,x21
+markets__lettuce_1_head,Markets,Lettuce (1 head),average,USD,x22
+markets__water_1_5_liter_bottle_at_the_market,Markets,"Water (1.5 liter bottle, at the market)",average,USD,x23
+markets__bottle_of_wine_mid_range_at_the_market,Markets,"Bottle of Wine (Mid-Range, at the market)",average,USD,x24
+markets__domestic_beer_0_5_liter_bottle_at_the_market,Markets,"Domestic Beer (0.5 liter bottle, at the market)",average,USD,x25
+markets__imported_beer_0_33_liter_bottle_at_the_market,Markets,"Imported Beer (0.33 liter bottle, at the market)",average,USD,x26
+markets__cigarettes_20_pack_marlboro,Markets,Cigarettes 20 Pack (Marlboro),average,USD,x27
+transportation__one_way_ticket_local_transport,Transportation,One-way Ticket (Local Transport),average,USD,x28
+transportation__monthly_pass_regular_price,Transportation,Monthly Pass (Regular Price),average,USD,x29
+transportation__taxi_start_normal_tariff,Transportation,Taxi Start (Normal Tariff),average,USD,x30
+transportation__taxi_1km_normal_tariff,Transportation,Taxi 1km (Normal Tariff),average,USD,x31
+transportation__taxi_1hour_waiting_normal_tariff,Transportation,Taxi 1hour Waiting (Normal Tariff),average,USD,x32
+transportation__gasoline_1_liter,Transportation,Gasoline (1 liter),average,USD,x33
+transportation__volkswagen_golf_1_4_90_kw_trendline_or_equivalent_new_car,Transportation,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car),average,USD,x34
+transportation__toyota_corolla_sedan_1_6l_97kw_comfort_or_equivalent_new_car,Transportation,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car),average,USD,x35
+utilities_monthly__basic_electricity_heating_cooling_water_garbage_for_85m2_apartment,Utilities (Monthly),"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",average,USD,x36
+utilities_monthly__1_min_of_prepaid_mobile_tariff_local_no_discounts_or_plans,Utilities (Monthly),1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans),average,USD,x37
+utilities_monthly__internet_60_mbps_or_more_unlimited_data_cable_adsl,Utilities (Monthly),"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",average,USD,x38
+sports_and_leisure__fitness_club_monthly_fee_for_1_adult,Sports And Leisure,"Fitness Club, Monthly Fee for 1 Adult",average,USD,x39
+sports_and_leisure__tennis_court_rent_1_hour_on_weekend,Sports And Leisure,Tennis Court Rent (1 Hour on Weekend),average,USD,x40
+sports_and_leisure__cinema_international_release_1_seat,Sports And Leisure,"Cinema, International Release, 1 Seat",average,USD,x41
+childcare__preschool_or_kindergarten_full_day_private_monthly_for_1_child,Childcare,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",average,USD,x42
+childcare__international_primary_school_yearly_for_1_child,Childcare,"International Primary School, Yearly for 1 Child",average,USD,x43
+clothing_and_shoes__1_pair_of_jeans_levis_501_or_similar,Clothing And Shoes,1 Pair of Jeans (Levis 501 Or Similar),average,USD,x44
+clothing_and_shoes__1_summer_dress_in_a_chain_store_zara_h_m,Clothing And Shoes,"1 Summer Dress in a Chain Store (Zara, H&M, ...)",average,USD,x45
+clothing_and_shoes__1_pair_of_nike_running_shoes_mid_range,Clothing And Shoes,1 Pair of Nike Running Shoes (Mid-Range),average,USD,x46
+clothing_and_shoes__1_pair_of_men_leather_business_shoes,Clothing And Shoes,1 Pair of Men Leather Business Shoes,average,USD,x47
+rent_per_month__apartment_1_bedroom_in_city_centre,Rent Per Month,Apartment (1 bedroom) in City Centre,average,USD,x48
+rent_per_month__apartment_1_bedroom_outside_of_centre,Rent Per Month,Apartment (1 bedroom) Outside of Centre,average,USD,x49
+rent_per_month__apartment_3_bedrooms_in_city_centre,Rent Per Month,Apartment (3 bedrooms) in City Centre,average,USD,x50
+rent_per_month__apartment_3_bedrooms_outside_of_centre,Rent Per Month,Apartment (3 bedrooms) Outside of Centre,average,USD,x51
+buy_apartment_price__price_per_square_meter_to_buy_apartment_in_city_centre,Buy Apartment Price,Price per Square Meter to Buy Apartment in City Centre,average,USD,x52
+buy_apartment_price__price_per_square_meter_to_buy_apartment_outside_of_centre,Buy Apartment Price,Price per Square Meter to Buy Apartment Outside of Centre,average,USD,x53
+salaries_and_financing__average_monthly_net_salary_after_tax,Salaries And Financing,Average Monthly Net Salary (After Tax),average,USD,x54
+salaries_and_financing__mortgage_interest_rate_in_percentages_pct_yearly_for_20_years_fixed_rate,Salaries And Financing,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",average,%,x55
